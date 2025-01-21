@@ -32,6 +32,7 @@ To run this project, ensure you have the following Python libraries installed:
 * Seaborn: For enhanced data visualization.
 * Pandas: For data manipulation and analysis.
   * pandas.DataFrame
+
 Install the required libraries using the following command:
 * pip install scikit-learn nltk matplotlib seaborn pandas
 ## How It Works
